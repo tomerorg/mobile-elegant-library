@@ -1,0 +1,13 @@
+{
+  "name": "mobile-elegant-library",
+  "version": "1.0.0",
+  "description": "Experimental mobile project using Webpack and Vue and Node.js in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
